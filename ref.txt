@@ -1,0 +1,4 @@
+format money
+https://stackabuse.com/format-number-as-currency-string-in-python/
+article
+https://towardsdatascience.com/is-python-set-to-surpass-its-competitors/
